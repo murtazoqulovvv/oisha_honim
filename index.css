@@ -1,0 +1,19 @@
+.container{
+    width: 1120px;
+}
+.header{
+    margin: auto;
+    justify-content: center;
+    margin-left: 480px;
+}
+.sdfg{
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+}
+.FISH{
+    color: brown;
+}
+.malumotnoma{
+    color: blueviolet;
+}
